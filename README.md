@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MariamGharieb
-- 👀 I’m interested in backend developing by java and nodeJS
+- 👀 I’m interested in Manual testing
 - 🌱 I’m currently learning in faculty of Computers and AI in Cairo University
 - 💞️ I’m looking to collaborate on new real project
 - 📫 How to reach me:
